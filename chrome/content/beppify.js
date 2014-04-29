@@ -79,6 +79,8 @@
 
         document.getElementById('appcontent').addEventListener('DOMContentLoaded',
             function(e) {
+                walk(e.originalTarget.body);
+
                 if (window.MutationObserver) {
                     var observer = new MutationObserver(function (mutations) {
                             Array.prototype.forEach.call(mutations, function (m) {
@@ -97,8 +99,6 @@
                         subtree: true
                     });
                 }
-
-                walk(e.originalTarget.body);
             });
     }
 }());

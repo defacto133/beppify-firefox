@@ -1,4 +1,4 @@
-<a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/beppify/">![Provalo ora](http://i.imgur.com/6WQJyzg.png "Clicca qui per installarlo")</a>
+<a target="_blank" href="https://addons.mozilla.org/firefox/addon/beppify/">![Provalo ora](http://i.imgur.com/6WQJyzg.png "Clicca qui per installarlo")</a>
 
 # Beppify
 
